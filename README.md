@@ -43,9 +43,7 @@ Here I will be posting the links to Open Source programs.
 
 --> Hacktoberfest 2021 : https://hacktoberfest.digitalocean.com/
 
---> FOSSASIA CODEHEAT : https://codeheat.org/
-
---> DRIVENDATA :
+--> FOSSASIA CODEHEAT : https://github.com/abhishekjha812/OpenSource-Links/edit/main/README.md
 
 --> kubernetes shadow release program : https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md
 
